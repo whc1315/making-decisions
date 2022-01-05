@@ -149,6 +149,7 @@ if (changeMyMind === true) {
 
 //CODE HERE
 
+console.log (!changeMyMind)
 
 
 ////////// ADVANCED PROBLEMS //////////
